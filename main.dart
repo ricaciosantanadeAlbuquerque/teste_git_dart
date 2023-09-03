@@ -7,5 +7,5 @@ void teste() {
     print("Bem vindo!");
   }
 
-  
+  funcaoBemVindo();
 }
