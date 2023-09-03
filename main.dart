@@ -13,5 +13,6 @@ void teste() {
     return valor1 + valor2;
   }
 
-  somarValor(20, 20);
+  ;
+  print(somarValor(20, 20));
 }
