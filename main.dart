@@ -19,15 +19,16 @@ int maior(List<int> array) {
       maior = j;
     }
   }
-  
-  return 2;
+
+  return maior;
 }
 
 void main() {
   //teste();
-  print(random());
+  //print(random());
   var vetor = funcaoArray();
   print(vetor);
+  print(maior(vetor));
 }
 
 void teste() {
