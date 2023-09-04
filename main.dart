@@ -5,9 +5,11 @@ int random() {
   return ale;
 }
 
- List<int> funcaoArray(int valor){
+List<int> funcaoArray(int valor) {
+  return List.generate(10, (index) {
     
- }
+  });
+}
 
 void main() {
   //teste();
