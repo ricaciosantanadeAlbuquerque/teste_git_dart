@@ -5,15 +5,17 @@ int random() {
   return ale;
 }
 
-List<int> funcaoArray(int valor) {
+List<int> funcaoArray() {
   return List.generate(10, (index) {
-    return valor;
+    return random();
   });
 }
 
 void main() {
   //teste();
   print(random());
+  var vetor = funcaoArray();
+  print(vetor);
 }
 
 void teste() {
