@@ -15,4 +15,12 @@ void teste() {
 
   ;
   print(somarValor(20, 20));
+
+  void contar100() {
+    for (var i = 0; i < 100; i++) {
+      print(i + 1);
+    }
+  }
+
+  contar100();
 }
