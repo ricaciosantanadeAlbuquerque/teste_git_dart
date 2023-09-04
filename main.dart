@@ -21,4 +21,6 @@ void teste() {
       print(i + 1);
     }
   }
+
+  contar100();
 }
