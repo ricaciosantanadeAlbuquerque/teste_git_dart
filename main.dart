@@ -11,6 +11,18 @@ List<int> funcaoArray() {
   });
 }
 
+int maior(List<int> array) {
+  int maior = 0;
+
+  for (var j in array) {
+    if (j > maior) {
+      maior = j;
+    }
+  }
+  
+  return 2;
+}
+
 void main() {
   //teste();
   print(random());
