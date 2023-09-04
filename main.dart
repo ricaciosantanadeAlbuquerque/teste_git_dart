@@ -1,5 +1,13 @@
+import 'dart:math';
+
+int random() {
+  var ale = Random().nextInt(100 + 1);
+  return ale;
+}
+
 void main() {
-  teste();
+  //teste();
+  print(random());
 }
 
 void teste() {
