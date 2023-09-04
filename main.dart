@@ -7,7 +7,7 @@ int random() {
 
 List<int> funcaoArray(int valor) {
   return List.generate(10, (index) {
-    
+    return valor;
   });
 }
 
