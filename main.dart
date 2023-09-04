@@ -5,6 +5,10 @@ int random() {
   return ale;
 }
 
+ List<int> funcaoArray(int valor){
+    
+ }
+
 void main() {
   //teste();
   print(random());
