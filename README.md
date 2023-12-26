@@ -39,4 +39,8 @@ __Melhorias1__ ,_Melhorias2_ **t** *t*
 
 ![PC Game](https://http2.mlstatic.com/D_NQ_NP_2X_643751-MLB72442418746_102023-F.webp)
 
+##### Links em Markdown
+
+[Google](https://www.google.com/search?q=google&oq=google&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg7MgYIAhBFGDsyBggDEEUYPDIGCAQQRRg8MgYIBRBFGDwyBggGEEUYQTIGCAcQRRhB0gEJODkzNGowajE1qAIAsAIA&sourceid=chrome&ie=UTF-8)
+
 
