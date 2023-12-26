@@ -48,7 +48,7 @@ __Melhorias1__ ,_Melhorias2_ **t** *t*
 
 ###### Imagem com link
 
-[![Moto](https://images.noticiasautomotivas.com.br/img/f/yamaha-mt-10-2016-1.jpg)](https://images.noticiasautomotivas.com.br/img/f/yamaha-mt-10-2016-1.jpg)
+[![Moto](https://images.noticiasautomotivas.com.br/img/f/yamaha-mt-10-2016-1.jpg)](https://www.yamaha-motor.com.br/categoria/motos/4)
 
 
 
