@@ -31,4 +31,4 @@ __Melhorias1__ ,_Melhorias2_ **t** *t*
 2. Integração com outros pagamentos
 3. Sistema de bônus primeira compra
 
-![Formulários](assets\123.png)
+![Formulários](assets/123.png)
