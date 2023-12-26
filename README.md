@@ -46,6 +46,11 @@ __Melhorias1__ ,_Melhorias2_ **t** *t*
 
 [https://www.google.com/search?q=google&oq=google&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg7MgYIAhBFGDsyBggDEEUYPDIGCAQQRRg8MgYIBRBFGDwyBggGEEUYQTIGCAcQRRhB0gEJODkzNGowajE1qAIAsAIA&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=google&oq=google&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg7MgYIAhBFGDsyBggDEEUYPDIGCAQQRRg8MgYIBRBFGDwyBggGEEUYQTIGCAcQRRhB0gEJODkzNGowajE1qAIAsAIA&sourceid=chrome&ie=UTF-8)
 
+###### Imagem com link
+
+[![Moto](https://images.noticiasautomotivas.com.br/img/f/yamaha-mt-10-2016-1.jpg)](https://images.noticiasautomotivas.com.br/img/f/yamaha-mt-10-2016-1.jpg)
+
+
 
 ##### Código no gitHub com Markdown
 
