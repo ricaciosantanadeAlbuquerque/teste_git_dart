@@ -25,5 +25,8 @@ __Melhorias1__ ,_Melhorias2_ **t** *t*
 ### Funcionalidades a desenvolver:
 
 1. Área de membros
+    1. a
+    2. b
+    3. c
 2. Integração com outros pagamentos
 3. Sistema de bônus primeira compra
