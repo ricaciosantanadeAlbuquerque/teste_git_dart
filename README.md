@@ -31,4 +31,12 @@ __Melhorias1__ ,_Melhorias2_ **t** *t*
 2. Integração com outros pagamentos
 3. Sistema de bônus primeira compra
 
+#### Imagem Local
+
 ![Formulários](assets/123.png)
+
+#### Imagem da Web
+
+![PC Game](https://http2.mlstatic.com/D_NQ_NP_2X_643751-MLB72442418746_102023-F.webp)
+
+
