@@ -55,4 +55,4 @@ __Melhorias1__ ,_Melhorias2_ **t** *t*
 ```
 
 - [x] feito formulário
-- [] fazer validação 
+- [ ] fazer validação 
